@@ -6,7 +6,7 @@ import os
 import time
 
 
-GAME_TIME_S = 68
+GAME_TIME_S = 120
 
 BLUE = '\033[94m'
 GREEN = '\033[92m'
